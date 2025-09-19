@@ -1,5 +1,5 @@
 # UsbCamShowcase
-Demonstration of USB streaming device video performance based on [remoteyourcam-usb](https://github.com/fyhertz/remoteyourcam-usb) implementation. No root.
+Demonstration of USB streaming device video performance based on [remoteyourcam-usb](https://github.com/michaelzoech/remoteyourcam-usb) implementation. No root.
 
 # Showcase
 
@@ -13,4 +13,4 @@ https://github.com/user-attachments/assets/720076a4-1e3c-4509-9e88-3375cedcd42b
 
 # Source
 
-[remoteyourcam-usb](https://github.com/fyhertz/remoteyourcam-usb)
+[remoteyourcam-usb](https://github.com/michaelzoech/remoteyourcam-usb)
