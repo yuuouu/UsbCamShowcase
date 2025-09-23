@@ -3,9 +3,9 @@ Demonstration of USB streaming device video performance based on [remoteyourcam-
 
 # Showcase
 
-https://github.com/user-attachments/assets/720076a4-1e3c-4509-9e88-3375cedcd42b
+https://github.com/user-attachments/assets/a540a4ab-58fe-4149-bae4-b3a9ff37c10e
 
-![result2](https://github.com/user-attachments/assets/dadd1934-9741-4f50-b8d4-afcd877257f9)
+![result](https://github.com/user-attachments/assets/b367fc19-d835-4f3f-b95f-6ad3281c328f)
 
 # Feature
 
